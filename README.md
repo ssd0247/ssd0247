@@ -7,7 +7,7 @@ ABOUT ME
 
 > 🌱 I’m currently learning Rust and how it can help me build and run CPU intensive ML/AI algorithms. **{** I'm a little skeptical about the term *"AI"* and it's *"penetration"* in the real world **}**  
 
-> 💞️ I’m looking to collaborate on projects that contribute towards my main purpose of life, that is to drive us towards fully automated systems. **{** which, I think as per my current knowledge, should take help from both `symbolic-AI` and `deep-learning` based approaches **}**
+> 💞️ I’m looking to collaborate on projects that contribute towards my main purpose of life, that is to drive human species towards fully automated systems that can execute all tasks. **{** upgrading from *narrow-AI* to *general-AI* which I expect, as per my current knowledge, will require both the `symbolic-AI` and `deep-learning` based approaches **}**
 
 > 🤔 Just a curious lad, who thinks that every software built by us, teaches us something enroute. So feel free to reach out to discuss any idea, no matter how naive it seems. Naive-Bayes algorithm is that only, *"naive"*, but it still solves many real world problems. 😉   
 
