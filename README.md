@@ -21,8 +21,6 @@ LANGUAGE AND TOOLS
 <img align="left" alt="sklearn" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052" /> <!-- Sklearn -->
 <img align="left" alt="spacy" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/512px-SpaCy_logo.svg.png?20161218210724" /> <!-- spaCy -->
 
-<img align="left" alt="docker" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/610px-Docker_%28container_engine%29_logo.svg.png?20161017201350" /> <!-- Docker -->
-
 <img align="left" alt="Python" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" /> <!-- Python -->
 <img align="left" alt="Go" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041" /> <!-- Go -->
 <img align="left" alt="Rust" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png?20220508043311" /> <!-- Rust -->
