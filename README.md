@@ -15,7 +15,7 @@ ABOUT ME
 - LLM hallucinations and ways to control and minimize its occurrence.
 - AI safety : In the end, there are real humans at the other end of these systems we build and therefore, all gaurdrails need to be deliberately enforced.
 
-> I have a dogmatic about the belief that every software built by us, teaches us something enroute. So feel free to reach out to discuss any idea, no matter how naive it seems. Naive-Bayes algorithm is that only, *"naive"*, but it still solves many real world problems. 😉   
+> I am dogmatic about the belief that every software built by us, teaches us something enroute. So feel free to reach out to discuss any idea, no matter how naive it seems. Naive-Bayes algorithm is that only, *"naive"*, but it still solves many real world problems. 😉   
 
 
 LANGUAGE AND TOOLS
