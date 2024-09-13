@@ -5,7 +5,7 @@ ABOUT ME
 
 > 👀 I’m interested in all things data and math! ***The messier to make sense of, the better it gets*** 🤓  
 
-> 🌱 I’m currently learning Rust and how it can help me build and run CPU intensive ML/AI algorithms. **{** I'm a little skeptical about the term *"AI"* and it's *"penetration"* in the real world **}**  
+> 🌱 I’m currently learning and experimenting with PLs (Go, Rust), tools & frameworks (PachyDerm, PyO3, DVC, MlFlow, ModelChimp etc.) and how it can help me build and run CPU-intensive ML algorithms.  
 
 > My search for collaboration is heavily skewed towards projects that bridge the gap between the current state of AI systems in-the-wild versus the marvels that are conjured in controlled environments of research labs. Engineering software systems that can *think*, *act*, *reason* and *plan* on their own accord. Upgrading from *narrow-AI* to *general-AI* which I expect, as per my current knowledge, will require both the `symbolic-AI` and `deep-learning` based approaches.
 
